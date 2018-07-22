@@ -21,7 +21,7 @@ JpGraph est une librairie PHP, orienté objet, utile pour la création de graphi
 2. Créer une page graphique.php
 3. Choisir le modèle sur jpraph.net
 4. Coller le php sur la page "graphique.php"
-5. Modifier les data et settings (si vous voulez sinon #jemenbatslecouilles)
+5. Modifier les data (entrer les bonnes données)
 6. Ouvrir via localhost
 
 Si l'image ne s'affiche pas!:
