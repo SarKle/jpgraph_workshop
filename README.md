@@ -1,5 +1,3 @@
-# jpgraph_workshop
-
 # INSERER UN GRAPHIQUE SUR UN SITE
 
 ### OUTIL
@@ -10,13 +8,13 @@
 ## EN PRATIQUE
 
 * Download JpGraph
-L'extraire dans le dossier du site
+(L'extraire dans le dossier du site)
 
 * Documentation - index.html
-Utile pour la création de classes
+(Utile pour la création de classes)
 
 
-JpGraph est une librairie PHP, orienté objet,
+JpGraph est une librairie PHP, orienté objet, utile pour la création de graphiques
 
 
 1. Créer une page index.php
