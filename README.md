@@ -2,6 +2,8 @@
 
 ### OUTIL
 #### [JpGraph](https://jpgraph.net/features/gallery.php#pie1)
+JpGraph est une librairie PHP, orienté objet, utile pour la création de graphiques
+
 ### PREREQUIS
 **Un minimum de PHP**
 
@@ -12,10 +14,6 @@
 
 * Documentation - index.html
 (Utile pour la création de classes)
-
-
-JpGraph est une librairie PHP, orienté objet, utile pour la création de graphiques
-
 
 1. Créer une page index.php
 2. Créer une page graphique.php
