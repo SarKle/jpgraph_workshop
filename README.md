@@ -2,7 +2,7 @@
 
 ### OUTIL
 #### [JpGraph](https://jpgraph.net/features/gallery.php#pie1)
-JpGraph est une librairie PHP, orienté objet, utile pour la création de graphiques
+JpGraph est une librairie PHP, orientée objet, utile pour la création de graphiques
 
 ### PREREQUIS
 **Un minimum de PHP**
